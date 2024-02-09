@@ -45,3 +45,7 @@ body {
   color: #fff;
   border-bottom-color: #fff;
 }
+
+@media (min-width: 576) {
+  font-size: 20px;
+}
